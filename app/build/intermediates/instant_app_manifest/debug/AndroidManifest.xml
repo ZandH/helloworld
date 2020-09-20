@@ -19,7 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.helloworld.activity_app_main" />
+        <activity android:name="com.example.helloworld.AppMainActivity" />
         <activity android:name="com.example.helloworld.InfoActivity" />
         <activity android:name="com.example.helloworld.DemoActivity" />
         <activity android:name="com.example.helloworld.LoginActivity" />

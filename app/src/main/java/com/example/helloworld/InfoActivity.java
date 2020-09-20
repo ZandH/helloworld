@@ -91,7 +91,7 @@ public class InfoActivity extends AppCompatActivity implements View.OnClickListe
                 + sex + "\n喜欢的课程："
                 + favorite.trim().substring(0, favorite.trim().length() - 1);
         Toast.makeText(InfoActivity.this, info, Toast.LENGTH_LONG).show();
-        Intent intent = new Intent(InfoActivity.this, activity_app_main.class);
+        Intent intent = new Intent(InfoActivity.this, AppMainActivity.class);
         startActivity(intent);
     }
 }

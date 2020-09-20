@@ -64,10 +64,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Android\
 		ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.helloworld.activity_app_main
-ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:9-64
+activity#com.example.helloworld.AppMainActivity
+ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:9-62
 	android:name
-		ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:19-52
+		ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:19-50
 activity#com.example.helloworld.InfoActivity
 ADDED from D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:13:9-59
 	android:name

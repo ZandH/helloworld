@@ -28,9 +28,9 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.example.helloworld.activity_app_main" />
-21-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:9-64
-21-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:19-52
+21        <activity android:name="com.example.helloworld.AppMainActivity" />
+21-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:9-62
+21-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:12:19-50
 22        <activity android:name="com.example.helloworld.InfoActivity" />
 22-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:13:9-59
 22-->D:\ASStudy\HelloWorld\app\src\main\AndroidManifest.xml:13:19-47
